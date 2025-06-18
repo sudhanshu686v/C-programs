@@ -1,9 +1,12 @@
 #include<stdio.h>
 int main(){
-    int a,b;
-    printf("enter side of rectangle :");
-    printf("enter another side of rectangle :");
-    scanf("%d",&a);
+    int l,b;
+    printf("enter the length:");
+    scanf("%d",&l);
+
+    printf("enter the breadth :");
     scanf("%d",&b);
+    printf("area of the rectangle :%d ",l*b);
+
     return 0;
 }
