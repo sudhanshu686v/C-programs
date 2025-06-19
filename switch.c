@@ -19,8 +19,7 @@ int main(){
         printf("you entered 4\n");
         break;
         default :
-        printf("you entered nothing\n");
-    
+        printf("entered nothing\n");
     }
     return 0;
 
