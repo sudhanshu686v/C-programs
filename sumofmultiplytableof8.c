@@ -1,4 +1,4 @@
-/*sum of numbers  in the mutiply table of 8*/
+/*sum of first 10 numbers in multiplication table of 8*/
 #include <stdio.h>
 
 int main(){
